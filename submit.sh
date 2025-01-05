@@ -1,0 +1,1 @@
+uv run kaggle competitions submit -c playground-series-s4e12 -f submission.csv -m "XGBoost with improved Feature Engineering"
